@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.book{
+	position: absolute;
+	top: 10px;
+	left: 10%;
+	right: 10%;
+}
+.book img{
+	width: 1070px;
+	height: 700px;
+}
+.book p{
+	text-align: center;
+	border: 3px solid black;
+	padding: 10px;
+	margin: 5px;
+	font-size: 30px;
+}
